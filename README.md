@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Susritachatterjee2020
-- 👀 I’m interested in web development, game development and graphics designing
+- 👀 I’m interested in web development, game development, graphics designing and cyber security.
 - 🌱 I’m currently learning Flutter, Unity and many more things. I love to explore this vast computing field and inovate new concepts.
 - 📫 How to reach me 
 email id: susritachatterjee2018@gmail.com
