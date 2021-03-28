@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Susritachatterjee2020
 - 👀 I’m interested in web development, game development, graphics designing
-- 🌱 I’m currently learning Flutter, Unity and many more thing. I love to explore this vast computing field and explore new concepts.
+- 🌱 I’m currently learning Flutter, Unity and many more things. I love to explore this vast computing field and explore new concepts.
 - 📫 How to reach me 
 email id: susritachatterjee2018@gmail.com
 My likedin id:https://www.linkedin.com/in/susrita-chatterjee-423519194/
