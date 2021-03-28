@@ -6,7 +6,7 @@ email id: susritachatterjee2018@gmail.com
 My likedin id:https://www.linkedin.com/in/susrita-chatterjee-423519194/
 Read my blogs on marketing and copywriting: https://writerightcontent.medium.com/
 Check out my designs: https://www.behance.net/susritachatter
-
+I am the founder of #Bringouttheyou or Bring Out the You. 
 
 
 
