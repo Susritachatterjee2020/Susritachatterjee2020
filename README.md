@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @Susritachatterjee2020
-- 👀 I’m interested in web development, game development, graphics designing and cyber security.
-- 🌱 I’m currently learning Flutter, Unity and many more things. I love to explore this vast computing field and inovate new concepts.
+- 👀 I’m interested in computer vision, computer graphics, image processing,video analytics, cloud management, product design.
+- 🌱 I am a Masters student in Applied Science ( Mathematics & Computing) at Saint Mary's University, Halifax, Canada with a full scholarship. My research interests include Computer Vision, Image Processing, Video Analytics, Computer Graphics &Neural Networks. I am a Mitacs Globalink Research Scholar 2022 at ETS Montreal, a contributor at Bitcoin Community, a Grace Hopper 2021 student scholar & a Linux Foundation Scholar 2021 in Women in Open Source Category.  I am a Product Manager, UX Researcher, Machine Learning & Computer Vision enthusiast, worked as researcher at Calcutta & Jadavpur University. I am punctual, open to learn and a team worker.
 - 📫 How to reach me 
 email id: susritachatterjee2018@gmail.com
 My likedin id:https://www.linkedin.com/in/susrita-chatterjee-423519194/
-Read my blogs on marketing and copywriting: https://writerightcontent.medium.com/
-Check out my designs: https://www.behance.net/susritachatter
-I am the founder of #Bringouttheyou or Bring Out the You. 
+  
 
 
 
